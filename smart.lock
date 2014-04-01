@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "meteor-ua-parser": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "meteor-ua-parser": {
+        "path": "."
+      }
+    }
+  }
+}
